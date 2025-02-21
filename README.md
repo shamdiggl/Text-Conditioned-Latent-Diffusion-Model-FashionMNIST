@@ -1,4 +1,4 @@
-# Image Generation with Diffusion Models & Autoencoders
+# Text Conditioned Latent Diffusion Model FashionMNIST from Scratch 
 
 A PyTorch-based subproject for my senior thesis exploring image generation using diffusion models and ResNet autoencoders on the FashionMNIST dataset.
 
@@ -36,4 +36,6 @@ Ramesh, Aditya, et al. "Hierarchical text-conditional image generation with clip
 Rombach, Robin, et al. "High-resolution image synthesis with latent diffusion models, 2021." 2021.  
 Radford, Alec, et al. "Learning transferable visual models from natural language supervision." International conference on machine learning. PmLR, 2021.  
 He, Kaiming, et al. "Deep residual learning for image recognition. CoRR abs/1512.03385 (2015)." 2015,  
-Zhang, Richard, et al. "The unreasonable effectiveness of deep features as a perceptual metric." Proceedings of the IEEE conference on computer vision and pattern recognition. 2018.  
+Zhang, Richard, et al. "The unreasonable effectiveness of deep features as a perceptual metric." Proceedings of the IEEE conference on computer vision and pattern recognition. 2018.    
+A  similar project, with larger scale, I inspired from:  
+https://github.com/explainingai-code/StableDiffusion-PyTorch/tree/main
