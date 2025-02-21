@@ -23,8 +23,8 @@ This repository contains:
 ├── slides.pptx 		# Explanatory slides  
 
 ## Example Generations
-![a photo of a Boot](example_generations/a photo of a Boot.png)  
-![Something to wear on summer](example_generations/Something to wear on summer.png)  
+![a photo of a Boot](./example_generations/a photo of a Boot.png)  
+![Something to wear on summer](./example_generations/only_Boot.png)  
 ![Something you wear on the foot](example_generations/Something you wear on the foot.png)  
 
 		
